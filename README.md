@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- Header: same yellow > pink > lavender gradient as the site background --> <div align="center"> <img width="100%" alt="Amy Chen header" src="https://capsule-render.vercel.app/api?type=waving&color=0:f7e7a9,40:ffd6f3,100:cbb6ff&height=220&section=header&text=Amy%20Chen&fontSize=64&fontColor=3b2b4a&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Web%20Development%20%C2%B7%20Toronto&descSize=20&descColor=5a476d&descAlignY=60" /> <!-- Typing animation in the site's pink --> <a href="https://github.com/amy0134679"> <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&duration=3200&pause=900&color=C93D8A&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Amy!;CS+student+at+TMU;I+build+clean%2C+responsive+websites;Looking+for+a+software+developer+internship" /> </a> <br /> <!-- Badges use the site's pink (#c93d8a) and purple (#6a4fd6) -->
 
-<!--
-**amy0134679/amy0134679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:amydt.chen@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-C93D8A?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/amy0134679"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-6A4FD6?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="YOUR-PORTFOLIO-URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-C93D8A?style=for-the-badge&logo=react&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+</div> <img width="100%" height="4" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7ac8,100:9b7bff&height=4" />
+✨ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a computer science student at Toronto Metropolitan University (TMU) passionate about programming, web development, and building practical, interactive projects. I enjoy building clean, responsive websites using React and modern tools, and I'm currently learning full-stack development and improving my UI design skills.
+
+🎀 Looking for a software developer internship. 🌸 Currently improving my full-stack and UI design skills.
+
+<img width="100%" height="4" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7ac8,100:9b7bff&height=4" />
+🛠️ Skills
+<div align="center"> <img alt="Skills" src="https://skillicons.dev/icons?i=react,vue,js,java,html,css,vite,firebase,git,github&theme=light&perline=10" /> </div> <img width="100%" height="4" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7ac8,100:9b7bff&height=4" />
+💜 Projects
+<table> <tr> <td width="33%" valign="top"> <h3>🎮 Dress-Up Game</h3> <p>An interactive character dress-up game with customizable outfits. Started in Java Swing, then rebuilt with React state.</p> <p><img alt="React" src="https://img.shields.io/badge/React-C93D8A?style=flat-square" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-6A4FD6?style=flat-square" /> <img alt="Java" src="https://img.shields.io/badge/Java-C93D8A?style=flat-square" /></p> <a href="YOUR-DRESS-UP-GAME-URL"><b>Play →</b></a> </td> <td width="33%" valign="top"> <h3>🎬 Totally Legit Movies</h3> <p>A movie library with login, search, sorting, and browsing using the TMDB API, built with Vue. Google sign-in saves your info to the cloud.</p> <p><img alt="Vue" src="https://img.shields.io/badge/Vue-6A4FD6?style=flat-square" /> <img alt="Pinia" src="https://img.shields.io/badge/Pinia-C93D8A?style=flat-square" /> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-6A4FD6?style=flat-square" /> <img alt="TMDB API" src="https://img.shields.io/badge/TMDB_API-C93D8A?style=flat-square" /></p> <a href="https://totally-legit-movies-eight.vercel.app/"><b>View project →</b></a> </td> <td width="33%" valign="top"> <h3>🌷 Portfolio Website</h3> <p>A colourful, responsive and accessible portfolio built with React and Vite to showcase my projects and personality as a programmer.</p> <p><img alt="React" src="https://img.shields.io/badge/React-C93D8A?style=flat-square" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-6A4FD6?style=flat-square" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-C93D8A?style=flat-square" /></p> <a href="YOUR-PORTFOLIO-URL"><b>Visit site →</b></a> </td> </tr> </table> <img width="100%" height="4" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7ac8,100:9b7bff&height=4" />
+💌 Let's connect
+
+If you'd like to collaborate, chat about software development, or discuss an internship or new opportunity, I'd love to hear from you.
+
+📧 amydt.chen@gmail.com 🐙 github.com/amy0134679
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:f7e7a9,40:ffd6f3,100:cbb6ff&height=120&section=footer" />
