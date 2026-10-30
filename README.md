@@ -18,6 +18,6 @@ I'm a computer science student at Toronto Metropolitan University (TMU) passiona
 
 If you'd like to collaborate, chat about software development, or discuss an internship or new opportunity, I'd love to hear from you.
 
-📧 amydt.chen@gmail.com 🐙 github.com/amy0134679
+📧 amydt.chen@gmail.com 🐙 github.com/amy0134679 🔗https://www.linkedin.com/in/amy-chen-387969444/
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:f7e7a9,40:ffd6f3,100:cbb6ff&height=120&section=footer" />
